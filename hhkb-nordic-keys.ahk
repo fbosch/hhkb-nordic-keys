@@ -19,7 +19,6 @@
 ; RAlt + a = Decreases Volume
 <^>!a::SendInput {Volume_Down}
 
-
 ; RAlt + s = Increases Volume
 <^>!s::SendInput {Volume_Up}
 
